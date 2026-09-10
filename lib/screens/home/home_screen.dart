@@ -25,7 +25,7 @@ class HomeScreen extends StatelessWidget {
             ),
             SizedBox(height: 2),
             Text(
-              "Indu",
+              "Shivani",
               style: TextStyle(
                 fontSize: 20,
                 fontWeight: FontWeight.bold,

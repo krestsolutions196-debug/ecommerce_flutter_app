@@ -17,7 +17,7 @@ class HomeScreen extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             Text(
-              "Hello 👋",
+              "Hello 👋 Code with Issue Save to Feature branchq" ,
               style: TextStyle(
                 fontSize: 14,
                 color: Colors.grey,
